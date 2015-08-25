@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - '0.10'
+script:
+  - grunt travis --verbose
+notifications:
+  irc: "irc.freenode.org#aerogear"
+branches:
+  only:
+    - master

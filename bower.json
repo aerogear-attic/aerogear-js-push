@@ -1,0 +1,33 @@
+{
+  "name": "aerogear-unified-push",
+  "version": "2.1.0",
+  "homepage": "https://github.com/lholmquist/aerogear-js-push",
+  "author": {
+    "name": "Red Hat, Inc.",
+    "url": "http://aerogear.org"
+  },
+  "maintainers": {
+    "name": "Lucas Holmquist",
+    "email": "lholmqui@redhat.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aerogear/aerogear-js-push.git"
+  },
+  "bugs": {
+    "url": "https://issues.jboss.org/browse/AEROGEAR"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
